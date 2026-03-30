@@ -1,0 +1,5 @@
+# Ignore all files inside the output folder
+output/
+
+# Ignore Python cache files
+__pycache__/
