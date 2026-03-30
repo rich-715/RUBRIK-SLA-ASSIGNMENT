@@ -6,7 +6,7 @@ CLIENT_SECRET = "Secret Key"
 GQL_ENDPOINT  = f"{RSC_URL}/api/graphql"
 
 # ── Job Settings ───────────────────────────────────────────
-SLA_NAME      = "35day"
+SLA_NAME      = "6week"
 CLUSTER_NAME  = "Rubrik-Cluster-Name"       # ← Target cluster
 VM_CSV        = "vms.csv"                   # ← csv of VM Names 
 OUTPUT_FOLDER = "output"                    # ← csv of results of each run created in this folder
